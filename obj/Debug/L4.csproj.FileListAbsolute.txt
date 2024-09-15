@@ -1,0 +1,10 @@
+D:\School Works\AppDev\L4\L4\bin\Debug\L4.exe.config
+D:\School Works\AppDev\L4\L4\bin\Debug\L4.exe
+D:\School Works\AppDev\L4\L4\bin\Debug\L4.pdb
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.csproj.AssemblyReference.cache
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.Form1.resources
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.Properties.Resources.resources
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.csproj.GenerateResource.cache
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.exe
+D:\School Works\AppDev\L4\L4\obj\Debug\L4.pdb
